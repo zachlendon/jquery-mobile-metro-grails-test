@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <meta name="layout" content="mobile">
+    <meta name="layout" content="metro">
     <title>JQuery Mobile Metro Demo</title>
 
 
@@ -63,17 +63,6 @@
 
 
     </style>
-
-    <script src="js/jquery.globalstylesheet.js" type="text/javascript"></script>
-    <script src="js/jquery.mobile.themeswitcher.js" type="text/javascript"></script>
-    <script src="js/jquery.mobile.fixedToolbar.polyfill.js" type="text/javascript"></script>
-
-
-    <script src="js/progress-bar.js" type="text/javascript"></script>
-    <script src="js/toggle-button.js" type="text/javascript"></script>
-    <script src="js/app-bar.js" type="text/javascript"></script>
-    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
-    <script src="js/mobiscroll-1.5.3.js" type="text/javascript"></script>
 
 </head>
 <body>
